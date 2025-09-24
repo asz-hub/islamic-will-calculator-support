@@ -6,7 +6,7 @@ Welcome to the support center for the Islamic Will Calculator app. We're here to
 
 ### For Technical Issues or App Problems
 - **Create an Issue**: [Report a bug or request a feature](https://github.com/asz-hub/islamic-will-calculator-support/issues/new)
-- **Email Support**: support@islamicwillcalculator.com
+- **Email Support**: singlepressapps@gmail.com
 
 ### For Islamic Law Questions
 - **Community Discussions**: [Join our community discussions](https://github.com/asz-hub/islamic-will-calculator-support/discussions)
